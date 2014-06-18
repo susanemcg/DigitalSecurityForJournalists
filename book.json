@@ -1,0 +1,10 @@
+{
+    "name": "DigitalSecurityForJournalists",
+    "version": "0.0.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/susanemcg/DigitalSecurityForJournalists.git"
+    },
+    "author": "susanemcg <sem2196@columbia.edu>"
+}
