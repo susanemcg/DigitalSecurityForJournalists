@@ -57,7 +57,7 @@ present something of a conundrum: How can we know who really “owns” a
 particular digital identity? This fundamental issue is one of the
 reasons that so many of us have rushed to “claim” the email addresses
 comprised of our legal names on major service providers, and why many
-organizations follow a simple pattern when generating email addresses as
+organizations follow a simple `firstname[dot]lastname[at]` pattern when generating email addresses as
 well. These practices recognize the problems of *authentication* and
 *verification* - determining who “owns” an email address or telephone
 number. While we often assume that an email address made up of someone’s

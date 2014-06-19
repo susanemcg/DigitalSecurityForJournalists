@@ -47,6 +47,15 @@ when provided with a subpoena.
 
 As enumerated in section (c)(2), this information includes:
 
+```
+(A) name
+(B) address
+(C) local and long distance records, or records of session times \& durations, including type of service used
+(D) length of service, including start date
+(E) telephone, instrument number or other subscriber number or identity, including any temporary network address
+(F) means and source of payment, including credit card or bank account number if applicable
+```
+
 In the context of the technologies then prevalent, the metadata that
 ECPA makes available to law enforcement was not nearly as revealing of
 citizens’ day-to-day activities as it is currently. According to recent
@@ -131,7 +140,10 @@ of justice official:
 > beyond a reasonable doubt.”<sup>[18](footnotes/README.html#fn18)</sup>
 
 **What makes up metadata?**
-
+```
+Email: to, from, subject line, timestamp, attachment names, IP address
+Mobile activity: origin number, target number, tower location, time, call duration, account holder information, hardware phone ID
+```
 ### What’s Next
 
 In recent months, conflicting conclusions about the constitutionality of

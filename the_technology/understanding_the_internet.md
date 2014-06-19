@@ -257,8 +257,8 @@ router are protected.
 When it comes to connecting to a website, one also has the choice
 between a secure and an insecure connection. At any given moment you can
 tell which type of connection you are using simply by looking at the url
-bar of your browser window–the location will start with either or . The
-significant difference between these two lies in the little at the end
+bar of your browser window–the location will start with either `http` or `https`. The
+significant difference between these two lies in the little `s` at the end
 of the second; it stands for “secure.”
 
 What does it mean for your connection to a website to be secure? In
@@ -302,7 +302,7 @@ issued by certificate authorities which generally provide them after
 running a kind of background check on the website, making sure that it
 is actually owned by the company or individual who claims to run
 it.<sup>[36](footnotes/README.html#fn36)</sup> Before agreeing to establish a secure connection to a
-website via , your browser asks the site for this “passport,” and then
+website via `https`, your browser asks the site for this “passport,” and then
 checks with the issuing authority to make sure it is authentic.
 
 > This part of the process is known as “authentication.”
@@ -338,7 +338,7 @@ traffic is something like mail in a *very* sturdy envelope; anyone can
 see where it’s coming from and when, as well as where it’s going. But
 only your device and the website you’re communicating with can open the
 envelope to see what’s inside. By contrast, if you connect to a website
-via , it’s more like sending your information via hundreds of postcards;
+via `http`, it’s more like sending your information via hundreds of postcards;
 not only can every node that handles it see where it is coming from and
 where it is going, the contents of your messages are there for anyone to
 read as well.
@@ -355,13 +355,13 @@ remains visible.](graphics/Websecurity003b.jpg)
 An connection, meanwhile, protects the contents. Only the metadata
 remains visible.
 
-This is why using connections is so important, especially when you are
+This is why using `https` connections is so important, especially when you are
 sending sensitive information like usernames and passwords. The same
 goes for any website where you might enter financial, medical or
 personally identifying information. In spite of this, many websites that
 ask for and deal with sensitive information don’t always require or
 provide https connections. Until very recently, for example, Yahoo did
-not require an connection to log in to its mail service.<sup>[37](footnotes/README.html#fn37)</sup>
+not require an `https` connection to log in to its mail service.<sup>[37](footnotes/README.html#fn37)</sup>
 Ideally, one would use https connections as much as possible.
 Fortunately, however, the Electronic Frontier Foundation recently
 launched a project aptly named

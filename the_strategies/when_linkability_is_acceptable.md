@@ -161,9 +161,9 @@ offer encrypted text messaging.
 Encrypted voice and video communication over the Web depend on secure
 “SIP”
 
-> SIP, or “Session Initiation Protocol” is similar to , but used
+> SIP, or “Session Initiation Protocol” is similar to `http`, but used
 > for exchanging multimedia and voice data over the Web. Just as secure
-> Web connections need to be , a secure SIP service is required for
+> Web connections need to be `https`, a secure SIP service is required for
 > encrypted voice services.
 
 services, such as those supported by [ostel.co](https://ostel.co) or

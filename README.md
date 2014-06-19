@@ -1,6 +1,8 @@
 Digital Security &amp; Source Protection for Journalists
 ========
 
+**Acknowledgements**
+
 *This paper is the product of countless conversations, encounters, recommendations and insights provided to me over the past year by members of the digital security and journalism communities.*
 
 *Though it would be impossible to name everyone whose insight and expertise has informed this work, my deepest thanks go to Franzi Roesner, Carey Shenkman, Nabiha Syed, Seamus Tuohy, Chris Walker and Carol Waters for providing invaluable feedback and direction on early versions of this paper; your expertise and insight was invaluable. Also to Oktavia Jonsdottir, Scott Klein, Quinn Norton, Jeremy Singer-Vine and Jennifer Valentino-DeVries, who shared their ideas and work processes with me. And a very special thanks to Peter G. Neumann, who offered me the long view on digital security and directed me to essential resources and experts on the subject.*

@@ -2,7 +2,7 @@ Digital Security: A Journalistic Essential for the 21st Century
 ---------------------------------------------------------------
 
 > “It should be clear that unencrypted journalist-source communication
-> is unforgivably reckless.”\
+> is unforgivably reckless.”
 > –Edward Snowden<sup>[49](footnotes/README.html#fn49)</sup>
 
 As Snowden, Greenwald, and Poitras’ experiences demonstrate, adopting

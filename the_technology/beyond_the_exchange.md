@@ -3,7 +3,7 @@ Beyond the Exchange: Data Security in the Cloud
 
 ### Understanding Email
 
-Thinking of messages sent over as postcards and those sent via as
+Thinking of messages sent over `http` as postcards and those sent via `https` as
 letters in envelopes is actually a fairly good analogy for how your
 information is and isn’t exposed when you’re actively sending messages
 to and from a website. But what about after that exchange has ended? At
@@ -92,7 +92,7 @@ That said, encryption will not protect your data against malicious
 software that you have voluntarily (if unknowingly) loaded onto your
 device yourself.
 
-> The term “pwn” (pronounced ) derives [either from World of Warcraft or
+> The term “pwn” (pronounced p'ōn) derives [either from World of Warcraft or
 > chess.](http://www.wowwiki.com/Own)
 
 This most commonly happens through USB drives and downloads, both of

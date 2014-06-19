@@ -29,6 +29,8 @@ strategies to make this feasible.
 
 ### **Unlinkable Web Browsing: Tails + Tor**
 
+**Tails**
+
 The simplest way to make sure that your computer is “sanitized” of any
 identifiable digital traces is simply to do as a doctor would: Dispose
 of your operating system after every use. Though impractical for
@@ -46,6 +48,8 @@ connect to the Internet.
 > possible exception of your GPG key. The Tails documentation provides a
 > good overview of [what Tails + Tor can and cannot
 > protect.](https://tails.boum.org/doc/about/warning/)
+
+**Tor**
 
 Unfortunately, the mechanics of the Internet *require* that a fair
 amount of identifying information be attached to our digital

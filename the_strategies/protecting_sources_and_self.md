@@ -95,7 +95,7 @@ systems: They use both symmetric and asymmetric encryption. Typically,
 this means encrypting the actual message with a unique symmetric key,
 and then encrypting the symmetric key itself with the appropriate public
 key and transmitting it with the message. This is the process that
-underlies both secure () Internet connections and encrypted email.
+underlies both secure (`https`) Internet connections and encrypted email.
 
 > A website’s “security certificate” is just another name for its public
 > key.
