@@ -37,7 +37,7 @@ on-the-ground reporting, the *Guardian* eventually built the story of
 how these riots occurred and spread: largely through coordination
 efforts facilitated by digital communications. Though the *Guardian*’s
 analysis would eventually reveal–counter to the claims of Prime Minister
-James Cameron–that Twitter and Facebook had played no role in spreading
+David Cameron–that Twitter and Facebook had played no role in spreading
 the mayhem,<sup>[2](footnotes/README.html#fn2)</sup> the rioters had made extensive use of BlackBerry
 Instant Messenger service to coordinate their activities. While the
 *Guardian*’s analysis was sufficient to derail Cameron’s call for a “red
