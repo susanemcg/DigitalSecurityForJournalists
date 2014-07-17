@@ -35,7 +35,7 @@ addressed to the destination on the sender’s end, then collected and
 reassembled at the other.
 
 ![Centralized and decentralized networks fail quickly in the case of
-malfunction or destruction.](graphics/Websecurity001c.jpg)
+malfunction or destruction.](graphics/websecurity001c.jpg)
 
 Centralized and decentralized networks fail quickly in the case of
 malfunction or destruction.
@@ -51,12 +51,12 @@ adversary, can know with complete certainty what the paths of these
 packets will be.
 
 ![All Internet traffic is broken up into equal-sized
-packets.](graphics/Websecurity001e.jpg)
+packets.](graphics/websecurity001e.jpg)
 
 All Internet traffic is broken up into equal-sized packets.
 
 ![Data packets take independent paths across the Internet once they
-leave your service provider.](graphics/Websecurity001f.jpg)
+leave your service provider.](graphics/websecurity001f.jpg)
 
 Data packets take independent paths across the Internet once they leave
 your service provider.
@@ -69,18 +69,18 @@ worst case scenario, the packets’ return address can be used to ask for
 any found missing.
 
 ![Data packets may be regularly dropped or lost in
-transit.](graphics/Websecurity001g.jpg)
+transit.](graphics/websecurity001g.jpg)
 
 Data packets may be regularly dropped or lost in transit.
 
 ![If the recipient device discovers a piece missing, it can request
-another copy.](graphics/Websecurity001h.jpg)
+another copy.](graphics/websecurity001h.jpg)
 
 If the recipient device discovers a piece missing, it can request
 another copy.
 
 ![This request is made possible by the requirement that packets travel
-with a return address.](graphics/Websecurity001i.jpg)
+with a return address.](graphics/websecurity001i.jpg)
 
 This request is made possible by the requirement that packets travel
 with a “return address.”

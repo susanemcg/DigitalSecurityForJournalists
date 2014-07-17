@@ -231,7 +231,7 @@ understand.
 
 ![An unsecured wireless connection means other devices can easily
 overhear the data your device sends and
-receives.](graphics/Websecurity002a.jpg)
+receives.](graphics/websecurity002a.jpg)
 
 An unsecured wireless connection means other devices can easily
 “overhear” the data your device sends and receives.
@@ -247,7 +247,7 @@ across the room, those messages are protected in such a way that only
 your device and the router can “hear” what is being sent.
 
 ![In a secure connection, the messages that devices exchange with the
-router are protected.](graphics/Websecurity002b.jpg)
+router are protected.](graphics/websecurity002b.jpg)
 
 In a secure connection, the messages that devices exchange with the
 router are protected.
@@ -312,13 +312,13 @@ actually establishes an encrypted connection. Otherwise, it will throw
 up a warning, letting you know that something’s not right.
 
 ![A valid security certificate means your browser will establish a
-secure and trusted connection.](graphics/Websecurity004a.jpg)
+secure and trusted connection.](graphics/websecurity004a.jpg)
 
 A valid security certificate means your browser will establish a secure
 and *trusted* connection.
 
 ![A bad security certificate will cause your browser to throw up a
-warning.](graphics/Websecurity004c.jpg)
+warning.](graphics/websecurity004c.jpg)
 
 A bad security certificate will cause your browser to throw up a
 warning.
@@ -344,13 +344,13 @@ where it is going, the contents of your messages are there for anyone to
 read as well.
 
 ![An connection leaves all the contents of your packets visible to
-anyone on the network.](graphics/Websecurity003a.jpg)
+anyone on the network.](graphics/websecurity003a.jpg)
 
 An connection leaves all the contents of your packets visible to anyone
 on the network.
 
 ![An connection, meanwhile, protects the contents. Only the metadata
-remains visible.](graphics/Websecurity003b.jpg)
+remains visible.](graphics/websecurity003b.jpg)
 
 An connection, meanwhile, protects the contents. Only the metadata
 remains visible.
