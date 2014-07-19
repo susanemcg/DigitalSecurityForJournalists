@@ -127,7 +127,7 @@ still encrypting and authenticating your conversations.
 > Adium also lets you [manage contacts for multiple chat
 > services](https://www.adium.im/about/) through a single interface.
 
-for Mac and [Jisti](https://jitsi.org/) for PC are open source and work
+for Mac and [Jitsi](https://jitsi.org/) for PC are open source and work
 with most major chat services. [CryptoCat](https://crypto.cat/),
 meanwhile, is both open source and Web-based, requiring only a simple
 plugin installation.
@@ -169,7 +169,7 @@ Encrypted voice and video communication over the Web depend on secure
 services, such as those supported by [ostel.co](https://ostel.co) or
 [linphone.org](http://www.linphone.org/eng/linphone/register-a-linphone-account.html),
 which can handle these more complex data streams. When used with these
-services, [Jisti](https://jitsi.org/) supports encrypted voice calls
+services, [Jitsi](https://jitsi.org/) supports encrypted voice calls
 from PCs, while [OSTel](https://ostel.co/about) does the same for
 Android devices via the
 [CsipSimple](https://code.google.com/p/csipsimple/) service.
@@ -177,4 +177,4 @@ Android devices via the
 [Wickr](https://www.mywickr.com/en/index.php) offer encrypted voice call
 support. [RedPhone](https://whispersystems.org/) also provides an
 encrypted-voice option, but relies on your existing phone number, so
-should not be used where unlinkability is required.
+should not be used where unlinkability is required.ji
