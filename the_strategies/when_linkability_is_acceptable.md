@@ -177,4 +177,4 @@ Android devices via the
 [Wickr](https://www.mywickr.com/en/index.php) offer encrypted voice call
 support. [RedPhone](https://whispersystems.org/) also provides an
 encrypted-voice option, but relies on your existing phone number, so
-should not be used where unlinkability is required.ji
+should not be used where unlinkability is required.
