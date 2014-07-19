@@ -127,7 +127,7 @@ still encrypting and authenticating your conversations.
 > Adium also lets you [manage contacts for multiple chat
 > services](https://www.adium.im/about/) through a single interface.
 
-for Mac and [Jisti](https://jitsi.org/) for PC are open source and work
+for Mac and [Jitsi](https://jitsi.org/) for PC are open source and work
 with most major chat services. [CryptoCat](https://crypto.cat/),
 meanwhile, is both open source and Web-based, requiring only a simple
 plugin installation.
