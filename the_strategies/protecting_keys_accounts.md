@@ -49,7 +49,8 @@ from your “guilty pleasure” canon–movies, television shows or songs you
 don’t even like to admit you enjoy, so that even someone close to you
 might not think to guess it. Longer phrases and irregular capitalization
 help improve the strength of the password, meaning it will be pretty
-tough to hack programmatically, as well as hard to guess.<sup>[47](footnotes/README.html#fn47)</sup>
+tough to hack programmatically, as well as hard to
+guess.<sup>[48](footnotes/README.html)</sup>
 
 ### Password Generators & Managers
 

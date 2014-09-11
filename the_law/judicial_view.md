@@ -37,11 +37,12 @@ Fourth Amendment claim. Because of this crucial detail, the ruling in
 *Katz* has little bearing on situations where information has been
 knowingly shared with others.
 
-> Though in *[U.S. v
-> Warshak](http://www.ca6.uscourts.gov/opinions.pdf/10a0377p-06.pdf)*
-> (2010), the Sixth Circuit asserted the defendants’ privacy interest in
-> the contents of their emails, the law supporting the search has not
-> proven unconstitutional.
+ > Though in *[U.S. v
+Warshak](http://www.ca6.uscourts.gov/opinions.pdf/10a0377p-06.pdf)*
+(2010), the Sixth Circuit asserted the defendants’ privacy interest in
+the contents of their emails, the law supporting the search has not
+proven unconstitutional.
+
 
 In 1976, this distinction was reinforced in *United States v. Miller*,
 wherein the court held that there can be no expectation of privacy

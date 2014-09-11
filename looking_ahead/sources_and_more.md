@@ -43,10 +43,10 @@ used by such a source may change, but as long as the digital signature
 remains consistent, one can be confident that the person (or, in some
 cases, organization) on the other end of the exchange is the same.
 
-> On an organizational level, this can be achieved by implementing a
-> tool like [SecureDrop.](https://pressfreedomfoundation.org/securedrop)
+ > On an organizational level, this can be achieved by implementing a
+tool like [SecureDrop](https://pressfreedomfoundation.org/securedrop)
 
-Moreover, a source wishing to make secure contact can do so by
+ Moreover, a source wishing to make secure contact can do so by
 encrypting a message with the journalist’s public key. This message
 could be an email or even a file that the journalist is directed to by
 another means. Whether sent from a throwaway email address or posted

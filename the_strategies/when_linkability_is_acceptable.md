@@ -24,16 +24,17 @@ legal liabilities can all be the fallout of source communications coming
 to light. In the majority of cases, the risk you take is not your own.
 
 > “We’re allowed to make choices about risks to ourselves, not our
-> sources.”\
+> sources.”  
 > –Jonathan Stray
 
 ### Encrypt to Protect
 
 The main key to protecting your communications with known sources is
-simple: Encrypt, encrypt, encrypt.<sup>[43](footnotes/README.html#fn43)</sup> Where encryption isn’t
-possible for legal, technical, or resource reasons, consider
-communication alternatives that may be more familiar to your
-correspondents or have better legal protections, such as postal mail.
+simple: Encrypt, encrypt, encrypt.<sup>[44](footnotes/README.html)</sup>
+Where encryption isn’t possible for legal, technical, or resource
+reasons, consider communication alternatives that may be more familiar
+to your correspondents or have better legal protections, such as postal
+mail.
 
 No matter the communication method, there is a good range of solutions
 out there for all kinds of devices. Android devices tend to have a
@@ -43,7 +44,7 @@ authentication and encryption require that both parties use the
 particular app in question; this can made Web-based solutions like
 [CryptoCat](https://crypto.cat/) valuable for journalists trying to move
 their sources to more secure communications channels, since only a
-browser plug-in is required.<sup>[44](footnotes/README.html#fn44)</sup>
+browser plug-in is required.<sup>[45](footnotes/README.html)</sup>
 
 ### **Web Browsing**
 
@@ -59,11 +60,12 @@ commercial solution like [Private Internet
 Access](https://www.privateInternetaccess.com/) or
 [TorGuard](http://torguard.net/) to route your Web traffic through a
 known network can help protect you from a potentially hostile Web
-provider.<sup>[45](footnotes/README.html#fn45)</sup> Keep in mind, however, that while the ISP you’re
-on will only know that you’re using a VPN, your company or VPN provider
-will be able to see all of the Web requests you make. An IPsec VPN will
-route not just your browser traffic but all of your Web traffic (e.g.
-for applications like DropBox etc.) through the VPN.
+provider.<sup>[46](footnotes/README.html)</sup> Keep in mind, however,
+that while the ISP you’re on will only know that you’re using a VPN,
+your company or VPN provider will be able to see all of the Web requests
+you make. An IPsec VPN will route not just your browser traffic but all
+of your Web traffic (e.g. for applications like DropBox etc.) through
+the VPN.
 
 To truly *anonymize* the location of your Web browsing activity,
 however, the [Tor Browser
@@ -96,17 +98,17 @@ email, through its
 [Enigmail](https://addons.mozilla.org/en-US/thunderbird/addon/enigmail/?src=search)
 add-on and [GPG](https://www.gnupg.org/).
 
-> GPG ([GnuPrivacy Guard](https://www.gnupg.org/)) is the
-> open-source version of PGP (“Pretty Good Privacy”), which was created
-> by Phil Zimmerman.
+ > GPG ([GnuPrivacy Guard](https://www.gnupg.org/)) is the open-source
+version of PGP (“Pretty Good Privacy”), which was created by Phil
+Zimmerman.
 
-While setting up some of these systems can take several steps, once
+ While setting up some of these systems can take several steps, once
 you’ve generated your public-private key pair
 
-> For more information on working with GPG, see the [GPG Mini How
-> To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
+ > For more information on working with GPG, see the [GPG Mini How
+To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
 
-and connected it to your email application, all of this happens in the
+ and connected it to your email application, all of this happens in the
 background. The software can store the public keys of your
 correspondents, and performs the necessary encryption/decryption and
 signing of your messages with the click of a button. Though Google
@@ -124,10 +126,10 @@ that can be used with your existing services (e.g., GoogleTalk) while
 still encrypting and authenticating your conversations.
 [Adium](https://adium.im/)
 
-> Adium also lets you [manage contacts for multiple chat
-> services](https://www.adium.im/about/) through a single interface.
+ > Adium also lets you [manage contacts for multiple chat
+services](https://www.adium.im/about/) through a single interface.
 
-for Mac and [Jitsi](https://jitsi.org/) for PC are open source and work
+ for Mac and [Jitsi](https://jitsi.org/) for PC are open source and work
 with most major chat services. [CryptoCat](https://crypto.cat/),
 meanwhile, is both open source and Web-based, requiring only a simple
 plugin installation.
@@ -136,12 +138,12 @@ On mobile, [ChatSecure](https://guardianproject.info/apps/chatsecure)
 for Android works with GoogleTalk.
 [SilentCircle](https://silentcircle.com/)
 
-> Phil Zimmerman is a founder of Silent Circle.
+ > Phil Zimmerman is a founder of Silent Circle.
 
-and [Wickr](https://www.mywickr.com/en/index.php)
+ and [Wickr](https://www.mywickr.com/en/index.php)
 
-> Noted security researcher Dan Kaminsky and Whitfield Diffie are
-> advisors to Wickr.
+ > Noted security researcher Dan Kaminsky and Whitfield Diffie are
+advisors to Wickr.
 
 , have apps for both Android and iPhone that support encrypted chat as
 well as encrypted text messaging and voices calls with other users of
@@ -161,12 +163,12 @@ offer encrypted text messaging.
 Encrypted voice and video communication over the Web depend on secure
 “SIP”
 
-> SIP, or “Session Initiation Protocol” is similar to `http`, but used
-> for exchanging multimedia and voice data over the Web. Just as secure
-> Web connections need to be `https`, a secure SIP service is required for
-> encrypted voice services.
+ > SIP, or “Session Initiation Protocol” is similar to *http*, but used
+for exchanging multimedia and voice data over the Web. Just as secure
+Web connections need to be *https*, a secure SIP service is required for
+encrypted voice services.
 
-services, such as those supported by [ostel.co](https://ostel.co) or
+ services, such as those supported by [ostel.co](https://ostel.co) or
 [linphone.org](http://www.linphone.org/eng/linphone/register-a-linphone-account.html),
 which can handle these more complex data streams. When used with these
 services, [Jitsi](https://jitsi.org/) supports encrypted voice calls

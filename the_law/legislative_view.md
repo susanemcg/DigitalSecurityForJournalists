@@ -40,21 +40,12 @@ Customer Communications or Records” provision [(18 U.S.C.
 data points that service providers must turn over to law enforcement
 when provided with a subpoena.
 
-> With the exception of [18 U.S.C.
-> §2703(d)](http://www.law.cornell.edu/uscode/text/18/2703), which
-> requires some showing before a judge. Both are less stringent than the
-> “probable cause” required to obtain a warrant.
+ > With the exception of [18 U.S.C.
+§2703(d)](http://www.law.cornell.edu/uscode/text/18/2703), which
+requires some showing before a judge. Both are less stringent than the
+“probable cause” required to obtain a warrant.
 
-As enumerated in section (c)(2), this information includes:
-
-```
-(A) name
-(B) address
-(C) local and long distance records, or records of session times \& durations, including type of service used
-(D) length of service, including start date
-(E) telephone, instrument number or other subscriber number or identity, including any temporary network address
-(F) means and source of payment, including credit card or bank account number if applicable
-```
+ As enumerated in section (c)(2), this information includes:
 
 In the context of the technologies then prevalent, the metadata that
 ECPA makes available to law enforcement was not nearly as revealing of
@@ -64,14 +55,15 @@ via GPS can illustrate an individual’s movements and activities beyond
 what would be meaningfully feasible via physical surveillance. The
 “mosaic theory” concludes that “comprehensive aggregation of even
 seemingly innocuous data reveals greater insight than consideration of
-each piece of information in isolation.”<sup>[15](footnotes/README.html#fn15)</sup> Yet because we may
+each piece of information in
+isolation.”<sup>[15](footnotes/README.html)</sup> Yet because we may
 “voluntarily share” our GPS location (and even more fine-grained
 cell-site) data by virtue of our service contract with a provider, this
 information is not considered private. A similar circumstance is created
 when we surf the Web, as our Internet protocol (IP) address is shared
 with virtually every website we visit.
 
-> For more detail, see the next chapter.
+ > For more detail, see the next chapter.
 
 The implications of ECPA are not limited to metadata, however. Section
 (a) of the “Required Disclosure” clause discussed above provides that
@@ -88,9 +80,9 @@ perfect description of email. The result is that any email on a
 provider’s server that has been opened or is more than six months old
 may have its contents accessed via such a subpoena.
 
-> [18 U.S.C. §2705(a)](http://www.law.cornell.edu/uscode/text/18/2705)
-> provides for a renewable delay of notification for a period of 90 days
-> if notification may have an “adverse result.”
+ > [18 U.S.C. §2705(a)](http://www.law.cornell.edu/uscode/text/18/2705)
+provides for a renewable delay of notification for a period of 90 days
+if notification may have an “adverse result.”
 
 ### FISA & the PATRIOT Act–Ambiguity Abounds
 
@@ -108,20 +100,20 @@ First Amendment”[[50 U.S.C.
 Unfortunately, this latter characterization is described only in the
 guidelines of the Attorney General. Though these guidelines [have been
 revised](http://www.justice.gov/iso/opa/resources/2202013712162851796893.pdf)
-and their protections expanded<sup>[16](footnotes/README.html#fn16)</sup> since the AP phone records
-scandal in the spring of 2013, these guidelines do not carry the force
-of law; journalists and their organizations have no legal recourse if
-they are breached.
+and their protections expanded<sup>[16](footnotes/README.html)</sup>
+since the AP phone records scandal in the spring of 2013, these
+guidelines do not carry the force of law; journalists and their
+organizations have no legal recourse if they are breached.
 
-> [-0.5cm]As [Eve Burton](http://www.hearst.com/about/bios/eve-burton)
-> points out: [“The AP cannot march into court and sue the
-> DOJ.”](http://www.cjr.org/cloud_control/ap_phone_records_seizure_revea.php?page=all)
+ > As [Eve Burton](http://www.hearst.com/about/bios/eve-burton) points
+out: [“The AP cannot march into court and sue the
+DOJ.”](http://www.cjr.org/cloud_control/ap_phone_records_seizure_revea.php?page=all)
 
 ### Why Metadata Matters
 
 > “Although the law provides less protection for metadata than content,
-> metadata can be even more revelatory than content itself.”\
-> –Susan Landau<sup>[17](footnotes/README.html#fn17)</sup>
+> metadata can be even more revelatory than content itself.”  
+> –Susan Landau<sup>[17](footnotes/README.html)</sup>
 
 While the target of the AP phone records collection situation is still
 uncertain, the implications of metadata collection for journalists are
@@ -137,25 +129,22 @@ of justice official:
 > information to reporters have been rare, due, in part, to the inherent
 > challenges involved in identifying the person responsible for the
 > illegal disclosure and in compiling the evidence necessary to prove it
-> beyond a reasonable doubt.”<sup>[18](footnotes/README.html#fn18)</sup>
+> beyond a reasonable doubt.”<sup>[18](footnotes/README.html)</sup>
 
 **What makes up metadata?**
-```
-Email: to, from, subject line, timestamp, attachment names, IP address
-Mobile activity: origin number, target number, tower location, time, call duration, account holder information, hardware phone ID
-```
+
 ### What’s Next
 
 In recent months, conflicting conclusions about the constitutionality of
 metadata collection by the government have been evident in decisions
 issued by various circuit courts. Specifically, in [*ACLU v.
 Clapper*](https://www.aclu.org/national-security/aclu-v-clapper-legal-documents)
-(2014)<sup>[19](footnotes/README.html#fn19)</sup> the 2rd Circuit held that metadata is not private,
-and that under FISA following connections up to three links away from
-the target part is acceptable. In December of 2013, however, the
-opposite ruling was reached by the D.C. Circuit in the case of [*Klayman
-v.
+(2014)<sup>[19](footnotes/README.html)</sup> the 2rd Circuit held that
+metadata is not private, and that under FISA following connections up to
+three links away from the target part is acceptable. In December of
+2013, however, the opposite ruling was reached by the D.C. Circuit in
+the case of [*Klayman v.
 Obama*](https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0851-48).
 As of April, 2014, however, the Supreme Court refused to hear
-Klayman<sup>[20](footnotes/README.html#fn20)</sup> , meaning that it is likely to be some time before
-more clarity on these issues is gained.
+Klayman<sup>[20](footnotes/README.html)</sup> , meaning that it is
+likely to be some time before more clarity on these issues is gained.

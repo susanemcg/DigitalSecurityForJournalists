@@ -17,7 +17,7 @@
    * [Metadata: More Than Just Communications](the_strategies/more_metadata.md)
    * [Analog Extras](the_strategies/analog_extras.md)
 * [Looking Ahead](looking_ahead/README.md)
-   * [Source Protection and More](looking_ahead/sources_and_mores.md)
+   * [Source Protection and More](looking_ahead/sources_and_more.md)
    * [Digital Security: A Journalistic Essential for the 21st Century](looking_ahead/journalistic_essential.md)
    * [Implementing Digital Security At Scale](looking_ahead/security_at_scale.md)
    * [Challenges and Opportunities in Digital Security Technologies](looking_ahead/challenges_and_opportunities.md)

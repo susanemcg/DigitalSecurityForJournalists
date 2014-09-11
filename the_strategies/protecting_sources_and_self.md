@@ -79,9 +79,9 @@ For individuals, authentication can be done by *securely* sharing the
 *hash* (sometimes also called called a “fingerprint”) of your public
 key.
 
-> A typical PGP hash is 32 characters long.
+ > A typical PGP hash is 32 characters long.
 
-Most simply, this can be done in person, via business card or QR code.
+ Most simply, this can be done in person, via business card or QR code.
 Voice authentication is also a good option, since we tend to recognize
 individuals’ voices. Even postal mail can be an option, if you’re
 confident about where to physically reach the person with whom you’re
@@ -95,11 +95,10 @@ systems: They use both symmetric and asymmetric encryption. Typically,
 this means encrypting the actual message with a unique symmetric key,
 and then encrypting the symmetric key itself with the appropriate public
 key and transmitting it with the message. This is the process that
-underlies both secure (`https`) Internet connections and encrypted email.
+underlies both secure (*https*) Internet connections and encrypted email.
 
-> A website’s “security certificate” is just another name for its public
-> key.
-
+ > A website’s “security certificate” is just another name for its
+public key.
 
 There are cases, however, where no already-known “public key” is
 available to encrypt that symmetric key; when connecting to a wireless
@@ -107,11 +106,11 @@ router, for example, or using many secure chat programs. For these, keys
 must be generated and exchanged on the fly, using a process called
 Diffie-Hellman key exchange.
 
-> For a helpful demonstration of this type of exchange, see [Chris
-> Bishop’s segment for the *Royal Institution Christmas
-> Lectures.*](http://www.youtube.com/watch?v=U62S8SchxX4)
+ > For a helpful demonstration of this type of exchange, see [Chris
+Bishop’s segment for the *Royal Institution Christmas
+Lectures*](http://www.youtube.com/watch?v=U62S8SchxX4)
 
-Despite the fact the fact that the first messages are exchanged “in the
+ Despite the fact the fact that the first messages are exchanged “in the
 clear,” this process makes it possible for both devices to derive the
 same shared secret key.
 
@@ -168,10 +167,10 @@ through either by the authorities or by hackers. Think of this as
 cleaning out your file cabinet on a regular basis: Do it once every
 three months to help keep your exposure in check.
 
-> Recall that the contents of emails over 180 days old may be subject to
-> subpoena, so doing this every six months is a minimum.
+ > Recall that the contents of emails over 180 days old may be subject
+to subpoena, so doing this every six months is a minimum.
 
-And remember that simply “trashing” your information isn’t enough.
+ And remember that simply “trashing” your information isn’t enough.
 Online you’ll need to “delete forever,” and on your computer you’ll want
-to use a tool like [CCleaner](http://ccleaner.en.softonic.com/) to truly overwrite
-“deleted” files so the data can’t be retrieved.
+to use a tool like [CCleaner](http://ccleaner.en.softonic.com/) to truly
+overwrite “deleted” files so the data can’t be retrieved.

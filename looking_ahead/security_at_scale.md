@@ -23,13 +23,14 @@ their reporters and editors in the essentials of digital security. And
 just as news organizations retain experts to consult on particularly
 thorny libel issues, they should have experts on hand to advise on
 sensitive digital security measures where needed; some organizations
-already do.<sup>[50](footnotes/README.html#fn50)</sup> At a time when most news organizations are
-overstretched and underfunded, the very idea of adding yet another step
-to the reporting process or another employee to the payroll may seem
-laughable, even cruel. Yet, as is often the case, with new approaches
-also come new opportunities. Some of these are financial, as I will
-discuss below. No less significant, however, are the editorial
-opportunities. Reporters well-versed in digital security practices will
-find themselves with a new array of skills for locating and verifying
-sources and stories. They may even find themselves with new sources
-altogether as their networks learn of their better security practices.
+already do.<sup>[51](footnotes/README.html)</sup> At a time when most
+news organizations are overstretched and underfunded, the very idea of
+adding yet another step to the reporting process or another employee to
+the payroll may seem laughable, even cruel. Yet, as is often the case,
+with new approaches also come new opportunities. Some of these are
+financial, as I will discuss below. No less significant, however, are
+the editorial opportunities. Reporters well-versed in digital security
+practices will find themselves with a new array of skills for locating
+and verifying sources and stories. They may even find themselves with
+new sources altogether as their networks learn of their better security
+practices.

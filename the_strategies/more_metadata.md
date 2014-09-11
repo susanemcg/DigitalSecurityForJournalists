@@ -19,9 +19,9 @@ Documents, too, tend to contain metadata about who created them and when
 (often drawn from your computer username or software registration
 information), so avoid sharing text in formats that can contain “macros”
 
-> “Macro” is another term for a small program.
+ > “Macro” is another term for a small program.
 
-(e.g., .doc/x or .pdf) where possible. Likewise, do some cleanup before
+ (e.g., .doc/x or .pdf) where possible. Likewise, do some cleanup before
 posting any original documents given to you by a source. Some
 organizations have been known to use digital “watermarking” on sensitive
 documents to trace leakers. This can take many forms, but can be as

@@ -5,8 +5,8 @@ Conclusion
 > personal responsibility and behavior is with social rather than
 > technological tools. If we instead try and restrict behavior
 > technologically… the only result will be an arms race that nobody
-> wins.”\
-> –Dr. Greg Jackson<sup>[57](footnotes/README.html#fn57)</sup>
+> wins.”  
+> –Dr. Greg Jackson<sup>[58](footnotes/README.html)</sup>
 
 The legal and tehnical infrastructure of today’s digital communication
 systems has enormous implications for journalistic source protection,
@@ -35,3 +35,4 @@ recapture their fundamental rights to privacy, freedom of association,
 and freedom of expression. If we are not willing to vigorously and
 emphatically fight for these rights, we may soon find that we no longer
 recognize ourselves as either a profession, or a nation.
+

@@ -32,7 +32,7 @@
 
 
         
-    <div class="book"  data-level="3" data-basepath=".." data-revision="1405583773910">
+    <div class="book"  data-level="3" data-basepath=".." data-revision="1410452516424">
     <div class="book-header">
     <!-- Actions Left -->
     <a href="#" class="btn pull-left toggle-summary" aria-label="Toggle summary"><i class="fa fa-align-justify"></i></a>
@@ -281,9 +281,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="5.1" data-path="looking_ahead/sources_and_mores.html">
+        <li class="chapter " data-level="5.1" data-path="looking_ahead/sources_and_more.html">
             
-            <a href="../looking_ahead/sources_and_mores.html">
+            <a href="../looking_ahead/sources_and_more.html">
                 <i class="fa fa-check"></i> <b>5.1.</b> Source Protection and More
             </a>
             
@@ -405,7 +405,7 @@
     
         <a href="../looking_ahead/README.html" title="Looking Ahead" class="chapter  new-chapter" data-progress="5" style="left: 70.83333333333333%;"></a>
     
-        <a href="../looking_ahead/sources_and_mores.html" title="Source Protection and More" class="chapter  " data-progress="5.1" style="left: 75%;"></a>
+        <a href="../looking_ahead/sources_and_more.html" title="Source Protection and More" class="chapter  " data-progress="5.1" style="left: 75%;"></a>
     
         <a href="../looking_ahead/journalistic_essential.html" title="Digital Security: A Journalistic Essential for the 21st Century" class="chapter  " data-progress="5.2" style="left: 79.16666666666667%;"></a>
     
@@ -424,16 +424,16 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_28">
+                    <section class="normal" id="section-gitbook_25">
                     
                         <h1 id="the-technology-understanding-the-infrastructure-of-digital-communications">The Technology: Understanding the Infrastructure of Digital Communications</h1>
 <h3 id="prologue-the-design-imperative-of-the-internet">Prologue: The Design Imperative of the Internet</h3>
 <p>The essential framework for the design of the modern Internet was first
 described by Paul Baran in a 10-page paper published in March of 1964.
 Issued as part of the IEEE’s “Transactions of the Professional Technical
-Group on Communications Systems,”<sup><a href="footnotes/README.html#fn28">28</a></sup> the introduction to the
-paper–entitled, “On Distributed Communications Networks”–begins with the
-following sentence:</p>
+Group on Communications Systems,”<sup><a href="footnotes/README.html">28</a></sup>
+the introduction to the paper–entitled, “On Distributed Communications
+Networks”–begins with the following sentence:</p>
 <blockquote>
 <p>“Let us consider the synthesis of a communication network which will
 allow several hundred major communications stations to talk with one
@@ -444,22 +444,23 @@ designed as a direct response to the most terrifying threat of the
 then-ongoing Cold War: a large-scale, long-range, distributed attack on
 American soil.</p>
 <p>Just as George Washington forewent postal mail and employed private
-couriers to send messages to his troops<sup><a href="footnotes/README.html#fn29">29</a></sup> during the
-Revolutionary War, the U.S. military sought to guarantee the integrity
-and availability of its own communications in case of a substantial
-attack on commercial networks during the Cold War. Achieving this,
-however, required that the system be all of the things that the
-telephone system of the day was not: distributed, redundant,
-asynchronous, relatively unpredictable, and cheap. Rather than requiring
-the synchronous, persistent connections of telephony, which transmitted
-information through the hubs and spokes of a decentralized network, the
-Internet would function something like an automated, multi-hop
-telegraph: Digital messages would be broken into pieces and individually
-addressed to the destination on the sender’s end, then collected and
-reassembled at the other.</p>
-<p><img src="graphics/Websecurity001c.jpg" alt="Centralized and decentralized networks fail quickly in the case of
-malfunction or destruction."></p>
-<p>Centralized and decentralized networks fail quickly in the case of
+couriers to send messages to his
+troops<sup><a href="footnotes/README.html">29</a></sup> during the Revolutionary
+War, the U.S. military sought to guarantee the integrity and
+availability of its own communications in case of a substantial attack
+on commercial networks during the Cold War. Achieving this, however,
+required that the system be all of the things that the telephone system
+of the day was not: distributed, redundant, asynchronous, relatively
+unpredictable, and cheap. Rather than requiring the synchronous,
+persistent connections of telephony, which transmitted information
+through the hubs and spokes of a decentralized network, the Internet
+would function something like an automated, multi-hop telegraph: Digital
+messages would be broken into pieces and individually addressed to the
+destination on the sender’s end, then collected and reassembled at the
+other.</p>
+<p><img src="graphics/websecurity001c.jpg" alt="Centralized and decentralized networks fail quickly in the case of
+malfunction or destruction.">
+Centralized and decentralized networks fail quickly in the case of
 malfunction or destruction.</p>
 <p>As anyone who has ever chosen the “ship as items become available”
 option knows, there is advantage to breaking up “deliveries” in this
@@ -470,29 +471,31 @@ capacity, this approach also provides a certain level of
 unpredictability: Not even the operator of the system, much less an
 adversary, can know with complete certainty what the paths of these
 packets will be.</p>
-<p><img src="graphics/Websecurity001e.jpg" alt="All Internet traffic is broken up into equal-sized
-packets."></p>
-<p>All Internet traffic is broken up into equal-sized packets.</p>
-<p><img src="graphics/Websecurity001f.jpg" alt="Data packets take independent paths across the Internet once they
-leave your service provider."></p>
-<p>Data packets take independent paths across the Internet once they leave
-your service provider.</p>
+<p><img src="graphics/websecurity001e.jpg" alt="All Internet traffic is broken up into equal-sized
+packets.">
+All Internet traffic is broken up into equal-sized
+packets.</p>
+<p><img src="graphics/websecurity001f.jpg" alt="Data packets take independent paths across the Internet once they
+leave your service provider.">
+Data packets take independent paths across the Internet once they
+leave your service provider.</p>
 <p>Because the packets are small, there is room for redundancy: The same
 packets can be cheaply sent multiple times to ensure delivery. This
 means that the cost of losing any given packet is small; if the first
 copy doesn’t reach the destination, the second or third will. In the
 worst case scenario, the packets’ return address can be used to ask for
 any found missing.</p>
-<p><img src="graphics/Websecurity001g.jpg" alt="Data packets may be regularly dropped or lost in
-transit."></p>
-<p>Data packets may be regularly dropped or lost in transit.</p>
-<p><img src="graphics/Websecurity001h.jpg" alt="If the recipient device discovers a piece missing, it can request
-another copy."></p>
-<p>If the recipient device discovers a piece missing, it can request
+<p><img src="graphics/websecurity001g.jpg" alt="Data packets may be regularly dropped or lost in
+transit.">
+Data packets may be regularly dropped or lost in
+transit.</p>
+<p><img src="graphics/websecurity001h.jpg" alt="If the recipient device discovers a piece missing, it can request
+another copy.">
+If the recipient device discovers a piece missing, it can request
 another copy.</p>
-<p><img src="graphics/Websecurity001i.jpg" alt="This request is made possible by the requirement that packets travel
-with a return address."></p>
-<p>This request is made possible by the requirement that packets travel
+<p><img src="graphics/websecurity001i.jpg" alt="This request is made possible by the requirement that packets travel
+with a “return address.”">
+This request is made possible by the requirement that packets travel
 with a “return address.”</p>
 <p>At the infrastructure level, this cheap redundancy–especially coupled
 with the return-address safety net–ensures that neither the individual
@@ -506,7 +509,7 @@ distributed network of the Internet is one:</p>
 <p>“…in which system destruction requires the enemy to pay the price of
 destroying <em>n</em> of <em>n</em> stations. If <em>n</em> is made sufficiently large, it
 can be shown that highly survivable system structures can be built,
-even in the thermonuclear era.”<sup><a href="footnotes/README.html#fn30">30</a></sup></p>
+even in the thermonuclear era.”<sup><a href="footnotes/README.html">30</a></sup></p>
 </blockquote>
 <p>In other words: an atomized communications solution for the atomic age.</p>
 

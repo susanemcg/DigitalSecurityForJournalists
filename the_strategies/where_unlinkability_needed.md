@@ -29,7 +29,7 @@ strategies to make this feasible.
 
 ### **Unlinkable Web Browsing: Tails + Tor**
 
-**Tails**
+*Tails*
 
 The simplest way to make sure that your computer is “sanitized” of any
 identifiable digital traces is simply to do as a doctor would: Dispose
@@ -44,12 +44,12 @@ itself on shutdown. Because Tails is recreated from scratch every time
 it is started, it can’t leak identifying bits of digital debris when you
 connect to the Internet.
 
-> Ideally, you should not store files on your Tails USB drive, with the
-> possible exception of your GPG key. The Tails documentation provides a
-> good overview of [what Tails + Tor can and cannot
-> protect.](https://tails.boum.org/doc/about/warning/)
+ > Ideally, you should not store files on your Tails USB drive, with the
+possible exception of your GPG key. The Tails documentation provides a
+good overview of [what Tails + Tor can and cannot
+protect.](https://tails.boum.org/doc/about/warning/)
 
-**Tor**
+*Tor*
 
 Unfortunately, the mechanics of the Internet *require* that a fair
 amount of identifying information be attached to our digital
@@ -87,8 +87,8 @@ approximately every 10 minutes, so that analyzing your pattern of
 Internet traffic for other identifying information is more difficult to
 do.
 
-> For more detail, see the [Tor
-> overview](https://www.torproject.org/about/overview.html.en)
+ > For more detail, see the [Tor
+overview](https://www.torproject.org/about/overview.html.en)
 
 While Tor is often described as an “anonymity” network, it offers a very
 particular *type* of anonymity: locational anonymity for your Web
@@ -118,11 +118,11 @@ substitute for knowing your context.
 Second, Tor is a *low-latecy* (i.e. minimal-delay) network, meaning it
 passes your packets back and forth as quickly as possible.
 
-> “Mix-nets” are [*high-latency* networks that send out messages in
-> batches](http://ritter.vg/blog-mix_and_onion_networks.html), making it
-> difficult to identify their destination.
+ > “Mix-nets” are [*high-latency* networks that send out messages in
+batches](http://ritter.vg/blog-mix_and_onion_networks.html), making it
+difficult to identify their destination.
 
-While this is part of what makes it a viable alternative to more
+ While this is part of what makes it a viable alternative to more
 mainstream browsers like Firefox and Chrome, it does mean that someone
 watching both your IP address and the correct exit node stands a good
 chance of being able to connect it back to you. Although your connection
@@ -134,7 +134,7 @@ the two. However, because this type of traffic analysis is at least
 restricted](https://www.torproject.org/docs/faq.html.en#AttacksOnOnionRouting)
 in many places this risk is most salient when you are on a private
 and/or state-controlled (e.g., company, university and some national)
-network.<sup>[46](footnotes/README.html#fn46)</sup>
+network.<sup>[47](footnotes/README.html)</sup>
 
 ### **Unlinkable Email: Keep Your Pseudonyms Isolated**
 
@@ -158,14 +158,14 @@ to real individuals or locations. This means not discussing anything
 personally identifying: physical location, local stores, workplace name,
 or friend or family connections.
 
-> [Lantanya Sweeney](http://latanyasweeney.org/index.html)’s
-> foundational [work on
-> identifiability](http://latanyasweeney.org/work/identifiability.html)
-> demonstrated that 87% of Americans could be identified by [a
-> combination of zip code, gender and date of
-> birth.](http://dataprivacylab.org/dataprivacy/projects/kanonymity/kanonymity.pdf)
+ > [Lantanya Sweeney](http://latanyasweeney.org/index.html)’s
+foundational [work on
+identifiability](http://latanyasweeney.org/work/identifiability.html)
+demonstrated that 87% of Americans could be identified by [a combination
+of zip code, gender and date of
+birth.](http://dataprivacylab.org/dataprivacy/projects/kanonymity/kanonymity.pdf)
 
-Remember that unless the contents of your chat or email are encrypted,
+ Remember that unless the contents of your chat or email are encrypted,
 this information could be accessed by third parties (e.g., your email
 provider or law enforcement) and used to connect these communications to
 your real identities.
@@ -178,11 +178,11 @@ In-person exchanges are best, human networks (trusted mutual
 acquaintances), voice conversations (for an existing source), and
 physical mail exchanges are also reasonable options.
 
-> Postal mail services are a viable option for many reasons: the
-> physical & legal protections are better, as is the obfuscation - a
-> great deal of postal mail still moves through the system each day.
+ > Postal mail services are a viable option for many reasons: the
+physical & legal protections are better, as is the obfuscation - a great
+deal of postal mail still moves through the system each day.
 
-You will have to judge which of these is the best approach for a given
+ You will have to judge which of these is the best approach for a given
 situation on a case-by-case basis.
 
 ### **Unlinkable Chat**
@@ -212,8 +212,8 @@ secrecy, chat is often a better option for unlinkable exchanges.
 ### **Unlinkable Voice**
 
 As with text, encrypted voice calls are actually carried over your data
-connection. Apps like [OSTel](need%20link) use a number different than
-your regular phone number, as do apps like
+connection. Apps like [OSTel](https://ostel.co/) use a number different
+than your regular phone number, as do apps like
 [SilentCircle](https://silentcircle.com/) and
 [Wickr](https://www.mywickr.com/en/index.php). Though some reporters may
 use so-called “burner phones,” obtaining and using any kind of mobile

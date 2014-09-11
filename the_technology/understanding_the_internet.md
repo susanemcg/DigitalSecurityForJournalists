@@ -62,10 +62,10 @@ with pieces of its own address, wireless routers are able to accurately
 exchange information with the Web on behalf of dozens of devices at a
 time.
 
-> The MAC address is a set of six semicolon-separated
-> letter/number pairs: the first three sets comprise the “vendor id”
-> indicating the device manufacturer, such Apple or Sony. The second
-> three sets are the “device” ID.
+ > The MAC address is a set of six semicolon-separated letter/number
+pairs: the first three sets comprise the “vendor id” indicating the
+device manufacturer, such Apple or Sony. The second three sets are the
+“device” ID.
 
 ### Getting Connected
 
@@ -82,9 +82,9 @@ Web. Because each of these is created anew every time your device
 connects to the router, your device’s “return address” will change
 slightly each time you connect.
 
-> In a well-managed system your device’s MAC should never move past the
-> router. A malicious party operating the router, however, can capture
-> this information.
+ > In a well-managed system your device’s MAC should never move past the
+router. A malicious party operating the router, however, can capture
+this information.
 
 Likewise, though IP addresses are designed to describe the geography of
 the digital world, they have a direct mapping to the physical world as
@@ -111,8 +111,8 @@ traffic from their customers in a particular geographic area out to the
 broader Web. Typically it is actually this latter, more general IP
 address that is visible to the broader Internet.
 
-> You can view your own current IP address by visiting: [What’s
-> my IP?](http://www.whatismyip.com/)
+ > You can view your own current IP address by visiting: [What’s my
+IP?](http://www.whatismyip.com/)
 
 ### Your Data’s Identity
 
@@ -126,23 +126,25 @@ namely, Web browsers and apps. For example, most browsers share
 information about your operating system and browser type with websites,
 primarily so that they can provide you with the best user experience.
 
-> Most websites can see - and log - the time, your browser type,
-> and your location.
+ > Most websites can see - and log - the time, your browser type, and
+your location.
 
-Added to this, Web “cookies” - small bits of text stored on your hard
+ Added to this, Web “cookies” - small bits of text stored on your hard
 drive via your browser - can be used to track your Web activity.
 
-> See [“How cookies track
-> you”](http://live.wsj.com/video/how-advertisers-use-Internet-cookies-to-track-you/92E525EB-9E4A-4399-817D-8C4E6EF68F93.html)
-> for more.
+ > See [“How cookies track
+you”](http://live.wsj.com/video/how-advertisers-use-Internet-cookies-to-track-you/92E525EB-9E4A-4399-817D-8C4E6EF68F93.html)
+for more.
 
-Though cookies set by one website cannot be detected or read by another,
-companies like Google can set cookies on so many sites that even their
-cookies alone can uniquely identify a user;<sup>[31](footnotes/README.html#fn31)</sup> programs that
-can access browsing history can do this as well.<sup>[32](footnotes/README.html#fn32)</sup> This
-browser “fingerprint” can be used to draw together otherwise disparate
-threads of Web activity, and revealing your own identity and potentially
-that of a source.
+ Though cookies set by one website cannot be detected or read by
+another, companies like Google can set cookies on so many sites that
+even their cookies alone can uniquely identify a
+user;<sup>[31](footnotes/README.html)</sup> programs that can access
+browsing history can do this as
+well.<sup>[32](footnotes/README.html)</sup> This browser “fingerprint”
+can be used to draw together otherwise disparate threads of Web
+activity, and revealing your own identity and potentially that of a
+source.
 
 Thus, every time we request a Web page, we are not only locating
 ourselves to our service provider, but fingerprinting and timestamping
@@ -171,7 +173,8 @@ constant signal hand-off among cell-towers required in order for you to
 walk down the street with a mobile device and carry on a phone
 conversation, load a Webpage, or provide required emergency services
 access, your service provider can physically pinpoint your phone to
-within 50 to 300 meters at any given time.<sup>[33](footnotes/README.html#fn33)</sup>
+within 50 to 300 meters at any given
+time.<sup>[33](footnotes/README.html)</sup>
 
 ### What About the “Bad” Guys?
 
@@ -209,16 +212,17 @@ his or her position in the network. If you connect to an unsecured
 wireless network, your Web activity (what pages you are visiting and so
 on) is potentially observable by any other device on that same network
 
-> For example, see Julian Oliver’s [“Reconstructing images from
-> Web traffic”](http://julianoliver.com/output/log_2014-04-23_21-12).
+ > For example, see Julian Oliver’s [“Reconstructing images from Web
+traffic”](http://julianoliver.com/output/log_2014-04-23_21-12)
 
-If you connect to an unsecured website, the information you are sending
-back and forth to that website is potentially observable by anyone with
-access to one of the nodes on the network that passes it along. At a
-given moment, this would include anyone with access to the router you’re
-connected to and the Internet service provider that links that router to
-the wider Web. Though questionable, “sniffing” packets on the broader
-Web is more than possible.<sup>[34](footnotes/README.html#fn34)</sup>
+. If you connect to an unsecured website, the information you are
+sending back and forth to that website is potentially observable by
+anyone with access to one of the nodes on the network that passes it
+along. At a given moment, this would include anyone with access to the
+router you’re connected to and the Internet service provider that links
+that router to the wider Web. Though questionable, “sniffing” packets on
+the broader Web is more than
+possible.<sup>[34](footnotes/README.html)</sup>
 
 ### Wireless-level Security
 
@@ -230,9 +234,8 @@ listen: Your device is speaking in a language that anyone can
 understand.
 
 ![An unsecured wireless connection means other devices can easily
-overhear the data your device sends and
+“overhear” the data your device sends and
 receives.](graphics/websecurity002a.jpg)
-
 An unsecured wireless connection means other devices can easily
 “overhear” the data your device sends and receives.
 
@@ -246,20 +249,24 @@ point on. Thus, while your device is still sending all its messages
 across the room, those messages are protected in such a way that only
 your device and the router can “hear” what is being sent.
 
+ > “WPA2 enterprise” security is most robust; though “WPA2 home” [has
+some
+vulnerabilities](https://github.com/susanemcg/DigitalSecurityForJournalists/issues/5),
+both are far preferable to an unsecured network.
+
 ![In a secure connection, the messages that devices exchange with the
 router are protected.](graphics/websecurity002b.jpg)
-
 In a secure connection, the messages that devices exchange with the
 router are protected.
 
-### Small s, Big Significance
+### Small *s*, Big Significance
 
 When it comes to connecting to a website, one also has the choice
 between a secure and an insecure connection. At any given moment you can
 tell which type of connection you are using simply by looking at the url
-bar of your browser window–the location will start with either `http` or `https`. The
-significant difference between these two lies in the little `s` at the end
-of the second; it stands for “secure.”
+bar of your browser window–the location will start with either *http* or
+*https*. The significant difference between these two lies in the little
+*s* at the end of the second; it stands for “secure.”
 
 What does it mean for your connection to a website to be secure? In
 effect, it is much the same as in the case of the wireless connection
@@ -288,8 +295,9 @@ it’s also incredibly easy to make one website look like another. In
 fact, even if you type the URL of the website you want to visit directly
 into your browser’s url bar, it’s possible to end up at a website that
 only *looks* like the one you intended to visit. This is also how some
-Internet censorship is implemented,<sup>[35](footnotes/README.html#fn35)</sup> as was seen recently in
-[Turkey](https://twitter.com/evacide/status/446823642614083585).
+Internet censorship is
+implemented,<sup>[35](footnotes/README.html)</sup> as was seen recently
+in [Turkey](https://twitter.com/evacide/status/446823642614083585).
 
 So how can you be sure that the secure connection you establish is to
 the website you’re actually looking for? In practice this is made
@@ -301,25 +309,24 @@ certificates work something like digital passports for the Web. They are
 issued by certificate authorities which generally provide them after
 running a kind of background check on the website, making sure that it
 is actually owned by the company or individual who claims to run
-it.<sup>[36](footnotes/README.html#fn36)</sup> Before agreeing to establish a secure connection to a
-website via `https`, your browser asks the site for this “passport,” and then
-checks with the issuing authority to make sure it is authentic.
+it.<sup>[36](footnotes/README.html)</sup> Before agreeing to establish a
+secure connection to a website via *https*, your browser asks the site
+for this “passport,” and then checks with the issuing authority to make
+sure it is authentic.
 
-> This part of the process is known as “authentication.”
+ > This part of the process is known as “authentication.”
 
-If the credentials check out, your browser moves on to the next step and
-actually establishes an encrypted connection. Otherwise, it will throw
-up a warning, letting you know that something’s not right.
+ If the credentials check out, your browser moves on to the next step
+and actually establishes an encrypted connection. Otherwise, it will
+throw up a warning, letting you know that something’s not right.
 
 ![A valid security certificate means your browser will establish a
-secure and trusted connection.](graphics/websecurity004a.jpg)
-
-A valid security certificate means your browser will establish a secure
-and *trusted* connection.
+secure and *trusted* connection.](graphics/websecurity004a.jpg)
+A valid security certificate means your browser will establish a
+secure and *trusted* connection.
 
 ![A bad security certificate will cause your browser to throw up a
 warning.](graphics/websecurity004c.jpg)
-
 A bad security certificate will cause your browser to throw up a
 warning.
 
@@ -338,33 +345,31 @@ traffic is something like mail in a *very* sturdy envelope; anyone can
 see where it’s coming from and when, as well as where it’s going. But
 only your device and the website you’re communicating with can open the
 envelope to see what’s inside. By contrast, if you connect to a website
-via `http`, it’s more like sending your information via hundreds of postcards;
-not only can every node that handles it see where it is coming from and
-where it is going, the contents of your messages are there for anyone to
-read as well.
+via *http*, it’s more like sending your information via hundreds of
+postcards; not only can every node that handles it see where it is
+coming from and where it is going, the contents of your messages are
+there for anyone to read as well.
 
-![An connection leaves all the contents of your packets visible to
-anyone on the network.](graphics/websecurity003a.jpg)
+![An *http* connection leaves all the contents of your packets visible
+to anyone on the network.](graphics/websecurity003a.jpg)
+An *http* connection leaves all the contents of your packets visible
+to anyone on the network.
 
-An connection leaves all the contents of your packets visible to anyone
-on the network.
+![An *https* connection, meanwhile, protects the contents. Only the
+metadata remains visible.](graphics/websecurity003b.jpg)
+An *https* connection, meanwhile, protects the contents. Only the
+metadata remains visible.
 
-![An connection, meanwhile, protects the contents. Only the metadata
-remains visible.](graphics/websecurity003b.jpg)
-
-An connection, meanwhile, protects the contents. Only the metadata
-remains visible.
-
-This is why using `https` connections is so important, especially when you are
-sending sensitive information like usernames and passwords. The same
-goes for any website where you might enter financial, medical or
+This is why using *https* connections is so important, especially when
+you are sending sensitive information like usernames and passwords. The
+same goes for any website where you might enter financial, medical or
 personally identifying information. In spite of this, many websites that
 ask for and deal with sensitive information don’t always require or
 provide https connections. Until very recently, for example, Yahoo did
-not require an `https` connection to log in to its mail service.<sup>[37](footnotes/README.html#fn37)</sup>
-Ideally, one would use https connections as much as possible.
-Fortunately, however, the Electronic Frontier Foundation recently
-launched a project aptly named
+not require an *https* connection to log in to its mail
+service.<sup>[37](footnotes/README.html)</sup> Ideally, one would use
+https connections as much as possible. Fortunately, however, the
+Electronic Frontier Foundation recently launched a project aptly named
 [HTTPSEverywhere](https://www.eff.org/https-everywhere), a free browser
 plugin that always attempts to make a secure connection, and then only
 revert to an insecure one if the former is unavailable. Installing this

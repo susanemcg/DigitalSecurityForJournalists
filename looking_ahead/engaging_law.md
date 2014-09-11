@@ -1,10 +1,9 @@
 Engaging the Legal System
 -------------------------
 
-
-> \`\`[T]here are no comparable Federal statutory standards to protect
-> the privacy and security of communications transmitted by new
-> noncommon carrier communications services or new forms of
+> \`\`<span>[T]</span>here are no comparable Federal statutory standards
+> to protect the privacy and security of communications transmitted by
+> new noncommon carrier communications services or new forms of
 > telecommunications and computer technology. This is so, even though
 > American citizens and American businesses are using these new forms of
 > technology in lieu of, or side-by-side with, first class mail and
@@ -15,12 +14,14 @@ Engaging the Legal System
 > to depend solely on physical protection, or it will gradually erode as
 > technology advances. Congress must act to protect the privacy of our
 > citizens. If we do not, we will promote the gradual erosion of this
-> precious right.”\
-> –cited in *“The New Privacy Interest”*<sup>[55](footnotes/README.html#fn55)</sup>
+> precious right.”  
+> –cited in *“The New Privacy
+> Interest”*<sup>[56](footnotes/README.html)</sup>
 
 An ongoing issue in the privacy and security of digital communications
 is the increasingly revealing nature of metadata and the sheer volume of
-data that is observable by third parties,<sup>[56](footnotes/README.html#fn56)</sup> especially as
+data that is observable by third
+parties,<sup>[57](footnotes/README.html)</sup> especially as
 location-aware mobile and embedded technologies become more prevalent.
 Beyond our duty to investigate, report on, and explain the implications
 of these issues, the journalism industry should evaluate its
