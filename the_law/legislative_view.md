@@ -56,7 +56,7 @@ what would be meaningfully feasible via physical surveillance. The
 “mosaic theory” concludes that “comprehensive aggregation of even
 seemingly innocuous data reveals greater insight than consideration of
 each piece of information in
-isolation.”<sup>[15](footnotes/README.html)</sup> Yet because we may
+isolation.”<sup>[15](/digital-security-for-journalists/footnotes/README.html)</sup> Yet because we may
 “voluntarily share” our GPS location (and even more fine-grained
 cell-site) data by virtue of our service contract with a provider, this
 information is not considered private. A similar circumstance is created
@@ -100,7 +100,7 @@ First Amendment”[[50 U.S.C.
 Unfortunately, this latter characterization is described only in the
 guidelines of the Attorney General. Though these guidelines [have been
 revised](http://www.justice.gov/iso/opa/resources/2202013712162851796893.pdf)
-and their protections expanded<sup>[16](footnotes/README.html)</sup>
+and their protections expanded<sup>[16](/digital-security-for-journalists/footnotes/README.html)</sup>
 since the AP phone records scandal in the spring of 2013, these
 guidelines do not carry the force of law; journalists and their
 organizations have no legal recourse if they are breached.
@@ -113,7 +113,7 @@ DOJ.”](http://www.cjr.org/cloud_control/ap_phone_records_seizure_revea.php?pag
 
 > “Although the law provides less protection for metadata than content,
 > metadata can be even more revelatory than content itself.”  
-> –Susan Landau<sup>[17](footnotes/README.html)</sup>
+> –Susan Landau<sup>[17](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 While the target of the AP phone records collection situation is still
 uncertain, the implications of metadata collection for journalists are
@@ -129,7 +129,7 @@ of justice official:
 > information to reporters have been rare, due, in part, to the inherent
 > challenges involved in identifying the person responsible for the
 > illegal disclosure and in compiling the evidence necessary to prove it
-> beyond a reasonable doubt.”<sup>[18](footnotes/README.html)</sup>
+> beyond a reasonable doubt.”<sup>[18](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 **What makes up metadata?**
 
@@ -139,12 +139,12 @@ In recent months, conflicting conclusions about the constitutionality of
 metadata collection by the government have been evident in decisions
 issued by various circuit courts. Specifically, in [*ACLU v.
 Clapper*](https://www.aclu.org/national-security/aclu-v-clapper-legal-documents)
-(2014)<sup>[19](footnotes/README.html)</sup> the 2rd Circuit held that
+(2014)<sup>[19](/digital-security-for-journalists/footnotes/README.html)</sup> the 2rd Circuit held that
 metadata is not private, and that under FISA following connections up to
 three links away from the target part is acceptable. In December of
 2013, however, the opposite ruling was reached by the D.C. Circuit in
 the case of [*Klayman v.
 Obama*](https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0851-48).
 As of April, 2014, however, the Supreme Court refused to hear
-Klayman<sup>[20](footnotes/README.html)</sup> , meaning that it is
+Klayman<sup>[20](/digital-security-for-journalists/footnotes/README.html)</sup> , meaning that it is
 likely to be some time before more clarity on these issues is gained.

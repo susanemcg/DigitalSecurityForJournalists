@@ -21,7 +21,7 @@ While all of this is to be expected, the way this information is
 expectations. For example, it is generally regarded as good practice to
 store passwords only in encrypted form in case of a security breach,
 though leak incidents demonstrate that not all service providers adhere
-to this security rule of thumb.<sup>[38](footnotes/README.html)</sup> To
+to this security rule of thumb.<sup>[38](/digital-security-for-journalists/footnotes/README.html)</sup> To
 protect your information from outside attackers, financial institutions
 and email providers also typically encrypt the copies they maintain of
 your account information and emails. At the same time, these companies
@@ -45,7 +45,7 @@ attacker will be able read all of your emails as well. Perhaps more
 likely–though arguably equally problematic–there are many cases where
 your email provider may be compelled to use its access to provide the
 text of your email messages to requesting
-authorities.<sup>[39](footnotes/README.html)</sup> This capacity can
+authorities.<sup>[39](/digital-security-for-journalists/footnotes/README.html)</sup> This capacity can
 also be leveraged by law enforcement to compel an email provider to
 decrypt and share emails and other information that is more than 180
 days old, because these are considered “abandoned” and so can be legally
@@ -83,7 +83,7 @@ at an airport. Probably the most common and high-profile example of the
 latter situation was exemplified when Glenn Greenwald’s partner, David
 Miranda, flew through London Heathrow Airport in August of 2013; his
 computers and hard drives were taken from him for several
-hours.<sup>[40](footnotes/README.html)</sup> Any unencrypted information
+hours.<sup>[40](/digital-security-for-journalists/footnotes/README.html)</sup> Any unencrypted information
 they contained would have been readily accessible to authorities. Just
 because you have a password on your computer or phone doesn’t mean its
 contents are encrypted; this is something you need to set up explicitly.

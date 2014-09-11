@@ -6,7 +6,7 @@ Conclusion
 > technological tools. If we instead try and restrict behavior
 > technologically… the only result will be an arms race that nobody
 > wins.”  
-> –Dr. Greg Jackson<sup>[58](footnotes/README.html)</sup>
+> –Dr. Greg Jackson<sup>[58](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 The legal and tehnical infrastructure of today’s digital communication
 systems has enormous implications for journalistic source protection,

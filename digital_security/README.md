@@ -9,7 +9,7 @@ revealing that the United States’ National Security Agency had for some
 time been performing bulk collection of digital communications metadata
 records, allegedly from corporations ranging from U.S. telecom companies
 to digital service providers like Google and Yahoo.
-<sup>[7](footnotes/README.html)</sup> Though met with public outrage,
+<sup>[7](/digital-security-for-journalists/footnotes/README.html)</sup> Though met with public outrage,
 the response of U.S. lawmakers to these revelations was decidedly
 measured: Not only was the program in question legal, but these
 collection practices had been taking place for some time.
@@ -29,7 +29,7 @@ the center of the ongoing debate about the future of journalism. In
 October of 2013, Bill Keller, former managing editor of the *New York
 Times*, invited Greenwald to debate their views on the essential
 principles of journalism in the 21st century in his *Times* newspaper
-column.<sup>[8](footnotes/README.html)</sup> Yet while Keller and
+column.<sup>[8](/digital-security-for-journalists/footnotes/README.html)</sup> Yet while Keller and
 Greenwald’s exchange in that column did highlight their philosophical
 differences, it glossed some of the practical ones that were arguably no
 less significant to the story: Snowden took his documents to Laura
@@ -42,7 +42,7 @@ business models have collapsed, and are yet to be reasonably replaced.
 Private individuals and citizen journalists have access to the same
 platforms for publication and can cultivate the same profile as
 reporters at major news organizations. The power of the crowd can be
-used both to document and condemn. <sup>[9](footnotes/README.html)</sup>
+used both to document and condemn. <sup>[9](/digital-security-for-journalists/footnotes/README.html)</sup>
 And yet every corner of our industry–from fashion to finance, the
 national desk to national security–is still driven by a single,
 essential imperative: Get the story.
@@ -69,17 +69,17 @@ lawsuits. Reputable news organizations have articulated codes of conduct
 designed to sharply limit the personal benefit reporters may derive from
 their professional activities; many also have explicit conflict of
 interest surveys that reporters must file on a regular
-basis.<sup>[10](footnotes/README.html)</sup> And yet in many newsrooms,
+basis.<sup>[10](/digital-security-for-journalists/footnotes/README.html)</sup> And yet in many newsrooms,
 the consideration given to the systematic protection of our most
 valuable assets–our sources–is uneven at best.
 
 There can be little dispute at this point that journalism, even within
 the United States, is under legal and technical
-attack.<sup>[11](footnotes/README.html)</sup> The year 2013 saw
+attack.<sup>[11](/digital-security-for-journalists/footnotes/README.html)</sup> The year 2013 saw
 virtually unprecedented criminal charges leveled against both
 journalists and their sources. In some cases, members of the press have
 been forced to risk jail time to defend their sources; in others, they
-never had the chance.<sup>[12](footnotes/README.html)</sup> And major
+never had the chance.<sup>[12](/digital-security-for-journalists/footnotes/README.html)</sup> And major
 news organizations
 
  > e.g. [The New York Times, Washington Post,
@@ -98,7 +98,7 @@ detriment that these events pose to our industry is incalculable. At the
 same time that Snowden’s conscious choice to share his information with
 recognized journalists may inspire confidence in the continued
 importance of professional journalism, the difficulties he experienced
-in doing so securely<sup>[13](footnotes/README.html)</sup> point to a
+in doing so securely<sup>[13](/digital-security-for-journalists/footnotes/README.html)</sup> point to a
 significant deficiency in our existing practices. Moreover, his very
 revelations only confirm how thin is the veil that protects our digital
 communications from the eyes of others, whether they be governments’,
@@ -111,7 +111,7 @@ sources, it is imperative that the journalistic profession as a whole
 develops a coherent set of professional practices around their
 protection. While judicial decisions and statutes in 49 states and the
 District of Columbia provide some form of reportorial
-“privilege,”<sup>[14](footnotes/README.html)</sup> the legal and
+“privilege,”<sup>[14](/digital-security-for-journalists/footnotes/README.html)</sup> the legal and
 technical realities of digital communications systems today are such
 that many journalists will never have the opportunity to invoke it.
 

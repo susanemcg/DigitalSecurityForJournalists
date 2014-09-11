@@ -7,9 +7,9 @@ Since the Snowden revelations of 2013, a seemingly endless supply of app
 developers and service providers has emerged onto the online landscape
 promising “private,” “anonymous,” and/or “secure” communications.
 Despite the recent SnapChat
-settlement,<sup>[41](footnotes/README.html)</sup> however, companies’
+settlement,<sup>[41](/digital-security-for-journalists/footnotes/README.html)</sup> however, companies’
 use of these terms is unregulated and the terms themselves are generally
-poorly defined.<sup>[42](footnotes/README.html)</sup> Yet in order to
+poorly defined.<sup>[42](/digital-security-for-journalists/footnotes/README.html)</sup> Yet in order to
 meaningfully protect our digital communications, clarifying the nuances
 of these terms is essential. We began that process in an earlier
 section, where we exposed the legal concept of privacy to be importantly
@@ -20,7 +20,7 @@ any way with a third party.
 describe communications that may, in reality, be anonymous,
 pseudonymous, or simply unpublished. In journalism, citing “anonymous”
 sources is usually “a last
-resort”<sup>[43](footnotes/README.html)</sup>, but such sources are
+resort”<sup>[43](/digital-security-for-journalists/footnotes/README.html)</sup>, but such sources are
 typically anything but: Their physical and/or legal identities are
 likely well-known to the reporters and editors with whom they work.
 “Pseudonymity,” meanwhile, describes any handle other than our direct

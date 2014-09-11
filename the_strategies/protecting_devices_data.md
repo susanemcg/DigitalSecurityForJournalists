@@ -35,7 +35,7 @@ entirely, like a movie file. Just make sure that the size of the file
 makes sense for the “cover” you give it–a 500 MB .doc file is pretty
 unlikely. While similar options don’t currently exist for most phones,
 there are research and development efforts in this
-area.<sup>[49](footnotes/README.html)</sup> If you are traveling,
+area.<sup>[49](/digital-security-for-journalists/footnotes/README.html)</sup> If you are traveling,
 consider whether you need to keep sensitive data on your computer at
 all. In places with good Internet access, services like
 [Martus](https://www.martus.org/index.shtml) can encrypt your files

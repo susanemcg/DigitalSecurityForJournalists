@@ -1,10 +1,10 @@
 Digital Security &amp; Source Protection for Journalists
 ========
 
-***Acknowledgements***  
+***Acknowledgements***
 *This paper is the product of countless conversations, encounters,
 recommendations and insights provided to me over the past year by
-members of the digital security and journalism communities.*  
+members of the digital security and journalism communities.*
 
 *Though it would be impossible to name everyone whose insight and
 expertise has informed this work, my deepest thanks go to Franzi
@@ -15,7 +15,7 @@ to Oktavia Jonsdottir, Scott Klein, Quinn Norton, Jeremy Singer-Vine and
 Jennifer Valentino-DeVries, who shared their ideas and work processes
 with me. And a very special thanks to Peter G. Neumann, who offered me
 the long view on digital security and directed me to essential resources
-and experts on the subject.*  
+and experts on the subject.*
 
 *This project would also not have been possible without the financial
 and intellectual support of my colleagues at Columbia Journalism School,
@@ -24,18 +24,18 @@ Taylor Owen. Likewise, I am very grateful to both OpenITP and
 TacticalTech–organizations whose generosity in hosting me in the fall of
 2013 made possible so many enlightening interactions with the digital
 security community. Without the openness of these organizations and
-their associates, this work would not have been possible.*  
+their associates, this work would not have been possible.*
 
 *And finally, many grateful thanks to my talented, enthusiastic, and
 insightful illustrator and collaborator, Matteo Farinella, for truly
-making the invisible, visible.*  
+making the invisible, visible.*
 
 *First printing, <span>June 2014</span>*
 
-*Funded by the Tow Foundation  
+*Funded by the Tow Foundation
 and the John S. and James L. Knight Foundation*
 
- 
+
 
 *This paper is dedicated to all members of the digital security and
 journalism communities, whose shared commitment to transparency,
@@ -59,27 +59,27 @@ panic gripped the nation. In the midst of these events, the
 Datablog–engaged in what might best be described as a real-time
 investigative-reporting effort to cover not only the where, when, and
 what of these riots, but also their why and
-how<sup>[1](footnotes/README.html)</sup>. Using social media reports, as
+how<sup>[1](/digital-security-for-journalists/footnotes/README.html)</sup>. Using social media reports, as
 well as court records, extensive data analysis, and on-the-ground
 reporting, the *Guardian* eventually built the story of how these riots
 occurred and spread: largely through coordination efforts facilitated by
 digital communications. Though the *Guardian*’s analysis would
 eventually reveal–counter to the claims of Prime Minister David
 Cameron–that Twitter and Facebook had played no role in spreading the
-mayhem,<sup>[2](footnotes/README.html)</sup> the rioters had made
+mayhem,<sup>[2](/digital-security-for-journalists/footnotes/README.html)</sup> the rioters had made
 extensive use of BlackBerry Instant Messenger service to coordinate
 their activities. While the *Guardian*’s analysis was sufficient to
 derail Cameron’s call for a “red button” for social media, RIM–the
 company that then ran BlackBerry–chose to cooperate with UK police,
 turning over the messages and handles related to the
-events.<sup>[3](footnotes/README.html)</sup> The next month in New York,
+events.<sup>[3](/digital-security-for-journalists/footnotes/README.html)</sup> The next month in New York,
 the Occupy Wall Street movement would lead to its own set of arrests,
 followed by the NYPD’s courtroom pursuit of Malcolm Harris’s Twitter
 “metadata”–especially information about the location of his phone when
-he posted certain tweets.<sup>[4](footnotes/README.html)</sup> Even when
+he posted certain tweets.<sup>[4](/digital-security-for-journalists/footnotes/README.html)</sup> Even when
 Twitter attempted to *resist* cooperating with
-police,<sup>[5](footnotes/README.html)</sup> they were eventually forced
-to turn over Harris’ data anyway.<sup>[6](footnotes/README.html)</sup>
+police,<sup>[5](/digital-security-for-journalists/footnotes/README.html)</sup> they were eventually forced
+to turn over Harris’ data anyway.<sup>[6](/digital-security-for-journalists/footnotes/README.html)</sup>
 These events threw into sharp relief the realities of privacy in the
 realm of digital communications: Whether messages were privately sent or
 publicly shared, users of services like BlackBerry Instant Messenger and

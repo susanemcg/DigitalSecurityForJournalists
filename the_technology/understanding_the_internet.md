@@ -139,9 +139,9 @@ for more.
  Though cookies set by one website cannot be detected or read by
 another, companies like Google can set cookies on so many sites that
 even their cookies alone can uniquely identify a
-user;<sup>[31](footnotes/README.html)</sup> programs that can access
+user;<sup>[31](/digital-security-for-journalists/footnotes/README.html)</sup> programs that can access
 browsing history can do this as
-well.<sup>[32](footnotes/README.html)</sup> This browser “fingerprint”
+well.<sup>[32](/digital-security-for-journalists/footnotes/README.html)</sup> This browser “fingerprint”
 can be used to draw together otherwise disparate threads of Web
 activity, and revealing your own identity and potentially that of a
 source.
@@ -174,7 +174,7 @@ walk down the street with a mobile device and carry on a phone
 conversation, load a Webpage, or provide required emergency services
 access, your service provider can physically pinpoint your phone to
 within 50 to 300 meters at any given
-time.<sup>[33](footnotes/README.html)</sup>
+time.<sup>[33](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 ### What About the “Bad” Guys?
 
@@ -222,7 +222,7 @@ along. At a given moment, this would include anyone with access to the
 router you’re connected to and the Internet service provider that links
 that router to the wider Web. Though questionable, “sniffing” packets on
 the broader Web is more than
-possible.<sup>[34](footnotes/README.html)</sup>
+possible.<sup>[34](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 ### Wireless-level Security
 
@@ -296,7 +296,7 @@ fact, even if you type the URL of the website you want to visit directly
 into your browser’s url bar, it’s possible to end up at a website that
 only *looks* like the one you intended to visit. This is also how some
 Internet censorship is
-implemented,<sup>[35](footnotes/README.html)</sup> as was seen recently
+implemented,<sup>[35](/digital-security-for-journalists/footnotes/README.html)</sup> as was seen recently
 in [Turkey](https://twitter.com/evacide/status/446823642614083585).
 
 So how can you be sure that the secure connection you establish is to
@@ -309,7 +309,7 @@ certificates work something like digital passports for the Web. They are
 issued by certificate authorities which generally provide them after
 running a kind of background check on the website, making sure that it
 is actually owned by the company or individual who claims to run
-it.<sup>[36](footnotes/README.html)</sup> Before agreeing to establish a
+it.<sup>[36](/digital-security-for-journalists/footnotes/README.html)</sup> Before agreeing to establish a
 secure connection to a website via *https*, your browser asks the site
 for this “passport,” and then checks with the issuing authority to make
 sure it is authentic.
@@ -367,7 +367,7 @@ personally identifying information. In spite of this, many websites that
 ask for and deal with sensitive information don’t always require or
 provide https connections. Until very recently, for example, Yahoo did
 not require an *https* connection to log in to its mail
-service.<sup>[37](footnotes/README.html)</sup> Ideally, one would use
+service.<sup>[37](/digital-security-for-journalists/footnotes/README.html)</sup> Ideally, one would use
 https connections as much as possible. Fortunately, however, the
 Electronic Frontier Foundation recently launched a project aptly named
 [HTTPSEverywhere](https://www.eff.org/https-everywhere), a free browser

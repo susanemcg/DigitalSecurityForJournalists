@@ -6,7 +6,7 @@ The Technology: Understanding the Infrastructure of Digital Communications
 The essential framework for the design of the modern Internet was first
 described by Paul Baran in a 10-page paper published in March of 1964.
 Issued as part of the IEEE’s “Transactions of the Professional Technical
-Group on Communications Systems,”<sup>[28](footnotes/README.html)</sup>
+Group on Communications Systems,”<sup>[28](/digital-security-for-journalists/footnotes/README.html)</sup>
 the introduction to the paper–entitled, “On Distributed Communications
 Networks”–begins with the following sentence:
 
@@ -21,7 +21,7 @@ American soil.
 
 Just as George Washington forewent postal mail and employed private
 couriers to send messages to his
-troops<sup>[29](footnotes/README.html)</sup> during the Revolutionary
+troops<sup>[29](/digital-security-for-journalists/footnotes/README.html)</sup> during the Revolutionary
 War, the U.S. military sought to guarantee the integrity and
 availability of its own communications in case of a substantial attack
 on commercial networks during the Cold War. Achieving this, however,
@@ -94,6 +94,6 @@ distributed network of the Internet is one:
 > “…in which system destruction requires the enemy to pay the price of
 > destroying *n* of *n* stations. If *n* is made sufficiently large, it
 > can be shown that highly survivable system structures can be built,
-> even in the thermonuclear era.”<sup>[30](footnotes/README.html)</sup>
+> even in the thermonuclear era.”<sup>[30](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 In other words: an atomized communications solution for the atomic age.

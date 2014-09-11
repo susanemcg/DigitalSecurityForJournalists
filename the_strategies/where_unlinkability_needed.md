@@ -134,7 +134,7 @@ the two. However, because this type of traffic analysis is at least
 restricted](https://www.torproject.org/docs/faq.html.en#AttacksOnOnionRouting)
 in many places this risk is most salient when you are on a private
 and/or state-controlled (e.g., company, university and some national)
-network.<sup>[47](footnotes/README.html)</sup>
+network.<sup>[47](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 ### **Unlinkable Email: Keep Your Pseudonyms Isolated**
 

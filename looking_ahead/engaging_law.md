@@ -16,12 +16,12 @@ Engaging the Legal System
 > citizens. If we do not, we will promote the gradual erosion of this
 > precious right.”  
 > –cited in *“The New Privacy
-> Interest”*<sup>[56](footnotes/README.html)</sup>
+> Interest”*<sup>[56](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 An ongoing issue in the privacy and security of digital communications
 is the increasingly revealing nature of metadata and the sheer volume of
 data that is observable by third
-parties,<sup>[57](footnotes/README.html)</sup> especially as
+parties,<sup>[57](/digital-security-for-journalists/footnotes/README.html)</sup> especially as
 location-aware mobile and embedded technologies become more prevalent.
 Beyond our duty to investigate, report on, and explain the implications
 of these issues, the journalism industry should evaluate its

@@ -30,7 +30,7 @@ to light. In the majority of cases, the risk you take is not your own.
 ### Encrypt to Protect
 
 The main key to protecting your communications with known sources is
-simple: Encrypt, encrypt, encrypt.<sup>[44](footnotes/README.html)</sup>
+simple: Encrypt, encrypt, encrypt.<sup>[44](/digital-security-for-journalists/footnotes/README.html)</sup>
 Where encryption isn’t possible for legal, technical, or resource
 reasons, consider communication alternatives that may be more familiar
 to your correspondents or have better legal protections, such as postal
@@ -44,7 +44,7 @@ authentication and encryption require that both parties use the
 particular app in question; this can made Web-based solutions like
 [CryptoCat](https://crypto.cat/) valuable for journalists trying to move
 their sources to more secure communications channels, since only a
-browser plug-in is required.<sup>[45](footnotes/README.html)</sup>
+browser plug-in is required.<sup>[45](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 ### **Web Browsing**
 
@@ -60,7 +60,7 @@ commercial solution like [Private Internet
 Access](https://www.privateInternetaccess.com/) or
 [TorGuard](http://torguard.net/) to route your Web traffic through a
 known network can help protect you from a potentially hostile Web
-provider.<sup>[46](footnotes/README.html)</sup> Keep in mind, however,
+provider.<sup>[46](/digital-security-for-journalists/footnotes/README.html)</sup> Keep in mind, however,
 that while the ISP you’re on will only know that you’re using a VPN,
 your company or VPN provider will be able to see all of the Web requests
 you make. An IPsec VPN will route not just your browser traffic but all

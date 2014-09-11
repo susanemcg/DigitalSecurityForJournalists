@@ -23,7 +23,7 @@ their reporters and editors in the essentials of digital security. And
 just as news organizations retain experts to consult on particularly
 thorny libel issues, they should have experts on hand to advise on
 sensitive digital security measures where needed; some organizations
-already do.<sup>[51](footnotes/README.html)</sup> At a time when most
+already do.<sup>[51](/digital-security-for-journalists/footnotes/README.html)</sup> At a time when most
 news organizations are overstretched and underfunded, the very idea of
 adding yet another step to the reporting process or another employee to
 the payroll may seem laughable, even cruel. Yet, as is often the case,

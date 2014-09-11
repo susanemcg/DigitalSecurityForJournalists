@@ -50,7 +50,7 @@ don’t even like to admit you enjoy, so that even someone close to you
 might not think to guess it. Longer phrases and irregular capitalization
 help improve the strength of the password, meaning it will be pretty
 tough to hack programmatically, as well as hard to
-guess.<sup>[48](footnotes/README.html)</sup>
+guess.<sup>[48](/digital-security-for-journalists/footnotes/README.html)</sup>
 
 ### Password Generators & Managers
 
